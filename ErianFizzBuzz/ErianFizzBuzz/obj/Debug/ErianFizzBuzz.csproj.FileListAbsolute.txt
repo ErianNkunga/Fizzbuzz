@@ -1,0 +1,10 @@
+C:\Users\storm\source\repos\ErianFizzBuzz\ErianFizzBuzz\bin\Debug\ErianFizzBuzz.exe.config
+C:\Users\storm\source\repos\ErianFizzBuzz\ErianFizzBuzz\bin\Debug\ErianFizzBuzz.exe
+C:\Users\storm\source\repos\ErianFizzBuzz\ErianFizzBuzz\bin\Debug\ErianFizzBuzz.pdb
+C:\Users\storm\source\repos\ErianFizzBuzz\ErianFizzBuzz\obj\Debug\ErianFizzBuzz.csproj.AssemblyReference.cache
+C:\Users\storm\source\repos\ErianFizzBuzz\ErianFizzBuzz\obj\Debug\ErianFizzBuzz.Properties.Resources.resources
+C:\Users\storm\source\repos\ErianFizzBuzz\ErianFizzBuzz\obj\Debug\ErianFizzBuzz.csproj.GenerateResource.cache
+C:\Users\storm\source\repos\ErianFizzBuzz\ErianFizzBuzz\obj\Debug\ErianFizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\storm\source\repos\ErianFizzBuzz\ErianFizzBuzz\obj\Debug\ErianFizzBuzz.exe
+C:\Users\storm\source\repos\ErianFizzBuzz\ErianFizzBuzz\obj\Debug\ErianFizzBuzz.pdb
+C:\Users\storm\source\repos\ErianFizzBuzz\ErianFizzBuzz\obj\Debug\ErianFizzBuzz.FrmFizz.resources
